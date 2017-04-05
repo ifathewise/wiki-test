@@ -1,4 +1,4 @@
-<b>Mary Shelley</b>
+<h>Mary Shelley</h>
 
 Mary Wollstonecraft Shelley (née Godwin; 30 August 1797 – 1 February 1851) was an English novelist, 
 short story writer, dramatist, essayist, biographer, and travel writer, best known for her Gothic 
