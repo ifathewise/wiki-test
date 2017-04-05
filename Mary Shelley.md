@@ -1,3 +1,5 @@
+<b>Mary Shelley</b>
+
 Mary Wollstonecraft Shelley (née Godwin; 30 August 1797 – 1 February 1851) was an English novelist, 
 short story writer, dramatist, essayist, biographer, and travel writer, best known for her Gothic 
 novel Frankenstein: or, The Modern Prometheus (1818). She also edited and promoted the works of her 
