@@ -7,3 +7,13 @@ Wollstonecraft is best known for A Vindication of the Rights of Woman (1792), in
 that women are not naturally inferior to men, but appear to be only because they lack education. 
 She suggests that both men and women should be treated as rational beings and imagines a social 
 order founded on reason.
+
+<ol type="1">
+<li>1</li>
+<li>2</li>
+  <ol type="a">
+  <li>a</li>
+  <li>b</li>
+  </ol>
+<li>3</li>
+</ol>
