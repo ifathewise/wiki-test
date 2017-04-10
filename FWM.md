@@ -1,4 +1,6 @@
-<b>Why should you Fuel What Matters?</b>
+<h1>Why should you Fuel What Matters?</h1>
+
+<h2>Part 1</h2>
 
 Every time you take a bus or train, you help protect what matters: clean air and energy security. 
 By fueling public transit, we can reduce harmful emissions from single occupancy vehicles and reduce our 
@@ -7,6 +9,8 @@ harmful vehicle emissions by encouraging the use of cleaner fuels (biofuels, ele
 transit, bicycle and pedestrian options by sharing compelling stories and helpful decision-making resources. 
 Led by the North Carolina Clean Energy Technology Center (NCCETC), Fuel What Matters is the new, one-stop shop for 
 both consumers and leaders in business and government to evaluate how they can contribute to a cleaner air tomorrow.
+
+<h3>Part 2</h3>
 
 “Fuel What Matters will help get you where you want to go whether it’s by walking, biking, transit, or in a personal 
 or business vehicle,” commented NCCETC Transportation Manager Anne Tazewell. At the center of the campaign which includes 
