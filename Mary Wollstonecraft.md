@@ -9,11 +9,11 @@ She suggests that both men and women should be treated as rational beings and im
 order founded on reason.
 
 <ol type="1">
-<li>1</li>
-<li>2</li>
-  <ol type="a">
-  <li>a</li>
-  <li>b</li>
+<li>Do</li>
+<li>Re</li>
+  <ol type="A">
+  <li>Me</li>
+  <li>Fa</li>
   </ol>
-<li>3</li>
+<li>So</li>
 </ol>
