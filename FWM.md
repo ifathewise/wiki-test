@@ -1,7 +1,7 @@
 <h1>Why should you Fuel What Matters?</h1>
 
 <li>
-<a href="#buyers book">Links</a>
+<a href="#buyers book">Buyers Book</a>
 </li>
 
 <h2>Part 1</h2>
