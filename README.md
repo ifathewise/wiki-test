@@ -1,5 +1,5 @@
 # wiki-test
-
+<div style>
 .box{
 	width:100px;
 	height:100px;
@@ -7,7 +7,7 @@
  
 .red{
 	background:#f00;
-	
+</div>	
 Learning to develop a wiki styled document.
 
 The purpose is to develop content and link them together.
