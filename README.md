@@ -8,6 +8,6 @@ Not exactly sure what the content will be about, but I'll try to find something 
 
 <b>Links so far</b>
 
-[Mary Shelley](https://github.com/ifathewise/wiki-test/blob/master/Mary%20Shelley.md)
+<a href="https://github.com/ifathewise/wiki-test/blob/master/Mary%20Shelley.md">Mary Shelley</a>
 
 [Mary Wollstonecraft](https://github.com/ifathewise/wiki-test/blob/master/Mary%20Wollstonecraft.md)
